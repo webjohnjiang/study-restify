@@ -1,4 +1,5 @@
 // 例子。参考自：https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/
+// 备注：这是文章中的 slow 版本
 
 'use strict'
 
